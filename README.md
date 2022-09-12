@@ -6,7 +6,7 @@
 <br>
 <h3 align="center">✉ Contact me through</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-428a31212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mohamed-428a31212/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-mohamed-428a31212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mohamed-428a31212/" height="30" width="40" /></a>
 <a href="https://instagram.com/a.elrefaiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.elrefaiy" height="30" width="40" /></a>
 <br>
 ☛ or you can send me on <i><strong>elrefaiy77@gmail.com</strong></i>
