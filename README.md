@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ahmed-mohamed-428a31212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mohamed-428a31212/" height="30" width="40" /><a href="https://www.facebook.com/profile.php?id=100004808373616" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" alt="a.elrefaiy" height="50" width="50" /></a></a>
 <a href="https://instagram.com/a.elrefaiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.elrefaiy" height="30" width="40" /></a>
 <br>
-☛ or you can send me on <i><strong>elrefaiy77@gmail.com</strong></i>
+☛ or you can send me on : <i><strong>elrefaiy77@gmail.com</strong></i>
 </p>
 
 <br>
