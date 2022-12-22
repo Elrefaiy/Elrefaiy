@@ -1,5 +1,3 @@
-<p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/social-app-386f6.appspot.com/o/users%2Fcover.png?alt=media&token=6f3106e5-981a-448d-a37a-cd4580dc8dd2" alt="cover"/></p>
-
 <h3 align="center">I am a junior software developer interested in applications development with Flutter (cross-platform).</h3>
 <br>
 
